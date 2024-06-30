@@ -1,0 +1,9 @@
+flask-bootstrap
+flask
+spacy
+PyPDF2
+scikit-learn
+pandas
+numpy
+matplotlib
+gunicorn

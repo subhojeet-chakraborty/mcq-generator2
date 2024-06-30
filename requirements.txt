@@ -116,13 +116,10 @@ pydeck==0.8.1b1
 Pygments==2.17.2
 pyparsing==3.1.1
 PyPDF2==3.0.1
-pypiwin32==223
 python-dateutil==2.8.2
 python-dotenv==1.0.1
 pyttsx3==2.90
 pytz==2023.3.post1
-pywin32==306
-pywin32-ctypes==0.2.2
 PyYAML==6.0.1
 pyzmq==25.1.2
 readme_renderer==43.0
